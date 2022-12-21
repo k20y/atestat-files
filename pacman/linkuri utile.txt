@@ -1,0 +1,11 @@
+https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt17c14a72f04d56ea/6155432c56d7d556d4a0b48b/tiles.png?width=828&quality=80&format=webply&disable=upscale
+
+https://gameinternals.com/understanding-pac-man-ghost-behavior
+
+
+https://www.gamedeveloper.com/design/the-pac-man-dossier
+
+https://hump.readthedocs.io/en/latest/class.html
+
+pacman ai explained
+https://www.youtube.com/watch?v=ataGotQ7ir8&list=LL
